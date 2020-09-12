@@ -1,5 +1,0 @@
-C:\Users\Cristian\Documents\GitHub\TP Winform Iglesias Ferrari\TP Winform Iglesias Ferrari\Dominio\bin\Debug\Dominio.dll
-C:\Users\Cristian\Documents\GitHub\TP Winform Iglesias Ferrari\TP Winform Iglesias Ferrari\Dominio\bin\Debug\Dominio.pdb
-C:\Users\Cristian\Documents\GitHub\TP Winform Iglesias Ferrari\TP Winform Iglesias Ferrari\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
-C:\Users\Cristian\Documents\GitHub\TP Winform Iglesias Ferrari\TP Winform Iglesias Ferrari\Dominio\obj\Debug\Dominio.dll
-C:\Users\Cristian\Documents\GitHub\TP Winform Iglesias Ferrari\TP Winform Iglesias Ferrari\Dominio\obj\Debug\Dominio.pdb
